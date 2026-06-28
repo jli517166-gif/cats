@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+_tmp_*
+inspect_mmd.py
+test_cats_import_fix.py
+test_models/
+cats_*.zip
+!cats_062.zip
